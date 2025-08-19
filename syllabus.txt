@@ -1,0 +1,20 @@
+# Node Intro, Modules
+1. What is Node Js
+2. Node REPL
+3. Globals
+-> __dirname, __filename, require, module, process
+4. Modules
+-> every file in node is a module 
+
+# Built-in Modules
+1. os
+2. path
+3. fs
+4. http
+
+# NPM
+-> npm, npm command, local/global dependencies
+-> npm init, npm init -y
+-> node modules, lodash, bootstrap
+-> npm install
+-> package.json, package-lock.json 

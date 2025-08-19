@@ -15,6 +15,12 @@
 # NPM
 -> npm, npm command, local/global dependencies
 -> npm init, npm init -y
--> node modules, lodash, bootstrap
+-> node modules, lodash, bootstrap, nodemon
 -> npm install
--> package.json, package-lock.json 
+-> package.json
+-> devDependencies
+-> scripts in npm -> start, run <command> (run dev) 
+-> uninstall modules - 
+1. delete node_modules, delete package-lock.json, remove module name from dependencies in package.json, npm install
+2. npm uninstall
+-> npx

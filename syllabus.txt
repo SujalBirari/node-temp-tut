@@ -24,3 +24,12 @@
 1. delete node_modules, delete package-lock.json, remove module name from dependencies in package.json, npm install
 2. npm uninstall
 -> npx
+
+# Asynchronous Node Js
+1. Concurrency and Throuput
+2. Event Loop in Node
+-> Phases 
+3. utils module 
+4. Events, Event Driven Programming, events module 
+5. events emittor
+6. Streams in Node 
